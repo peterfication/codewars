@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/challenge-fun-number-14-target-game/train/javascript
 // Does not work for big inputs :/
 function targetGame(vals) {
   vals = vals.map(val => Math.max(val, 0))
